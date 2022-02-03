@@ -1,7 +1,8 @@
 body{
-    background-color:#e51a4c;
+    background-color:black;
     color:#ff7f50;
-    font-family: Arial;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-small;
 } 
 h1 { 
     color : white; 
