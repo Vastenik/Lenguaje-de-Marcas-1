@@ -1,0 +1,37 @@
+body{
+    background-color:#e51a4c;
+    color:#ff7f50;
+    font-family: Arial;
+} 
+h1 { 
+    color : white; 
+    font-family:Dejavu Sans; 
+    word-spacing: 30px;
+}
+.lista{
+    background-color: purple;
+    width: 200px;
+}
+.parrafouno{
+    background-color: #808000;
+    width: 250px;
+    line-height: 50px;
+    text-indent: 10%;
+    background-image: url(Decorado.png);
+    background-repeat: repeat-x;
+    background-size: 25%;
+}
+.parrafodos{
+    background-color: #808000;
+    width: 300px;
+    font-size: 50%;
+    text-indent: 10%;
+}
+.imgdos{vertical-align: super;}
+#encabezadotres{ 
+    font-family: Free Sans; 
+    font-style: italic; 
+    text-transform: lowercase;
+}
+A{text-decoration: none;
+  color:#add8e6;}
